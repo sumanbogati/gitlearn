@@ -132,6 +132,8 @@ Instead of using two images to achieve the effect, we just use one and move it.
     color:#fff; 
     text-decoration:none; 
     vertical-align:middle;
-	font-weight : bold;
+	font-weight : bold;	
+	font-size : 90%;
+	margin-top:10px;
 }
 
