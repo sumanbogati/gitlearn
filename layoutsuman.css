@@ -13,7 +13,7 @@ del, dfn, em, font, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr{
+table, caption, tbody, tfoot, thead, tr, td, th{
 margin: 0;
 padding: 0;
 border: 0;
@@ -139,4 +139,7 @@ Instead of using two images to achieve the effect, we just use one and move it.
 	margin-bottom : 40px;
 }
 
+body {
+	color : red;
+}
 /** suman bogati **/
