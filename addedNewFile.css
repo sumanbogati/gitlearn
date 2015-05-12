@@ -6,4 +6,12 @@ body {
 	padding : 0;
 	margin-right : 10px;
 	padding-right : 5px;
-	}
+}
+
+div {
+	color :red;
+}
+
+p{
+	margin-top:20px;
+}

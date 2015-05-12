@@ -156,4 +156,17 @@ p {
 }
 /** suman bogati **/
 
+body{
+	margin : 0;
+}
+
+div {
+	margin:0;
+	padding : 0;
+}
+
+p{
+	line-height : 110%;
+}
+
 
