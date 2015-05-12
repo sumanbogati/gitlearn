@@ -1,3 +1,7 @@
+table {
+	margin : 0;
+}
+
 body {
 	color : red;
 	font-size  : 100%;
@@ -13,5 +17,5 @@ div {
 }
 
 p{
-	margin-top:20px;
+	margin-top:21px;
 }
