@@ -19,5 +19,8 @@ div {
 p{
 	margin-top:21px;
 	margin-bottom : 50px;
+	/* from here may */
 	margin-left : 10px;
+	padding-left : 5px;
+	
 }
