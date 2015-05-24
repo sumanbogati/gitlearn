@@ -1,3 +1,7 @@
+table {
+	margin : 0;
+}
+
 body {
 	color : red;
 	font-size  : 100%;
@@ -6,4 +10,18 @@ body {
 	padding : 0;
 	margin-right : 10px;
 	padding-right : 5px;
+}
+
+div {
+	color :red;
+}
+
+p{
+	margin-top:21px;
+	margin-bottom : 50px;
+	/* from here may */
+	margin-left : 10px;
+	padding-left : 5px;
+	text-align : center;
+	
 }
